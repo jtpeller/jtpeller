@@ -26,16 +26,19 @@ These are the languages that I know, to varying degrees of fluency.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![D3 JS](https://img.shields.io/badge/d3%20js-black?style=for-the-badge&logo=d3)
 
-### Learning
+### Learning or Novice-Level
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
+![React JS](https://img.shields.io/badge/React_JS-black?style=for-the-badge&logo=React)
 
 ### Want to Learn
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift)
-![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=Lua&logoColor=2C2D72)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=Swift)
+![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=Lua&logoColor=2C2D72)
+![NodeJS](https://img.shields.io/badge/Node_JS-black?style=for-the-badge&logo=Node.JS)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)
 
 ## Tools
 
