@@ -29,15 +29,17 @@ These are the languages that I know, to varying degrees of fluency.
 ### Learning
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
 
 ### Want to Learn
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 ![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift)
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=Lua&logoColor=2C2D72)
 
 ## Tools
 
-Throughout my career, I've gotten the opportunity to work with some tools:
+Throughout my career, I've gotten the opportunity to work with lots of different tools, IDEs, Operating Systems, and more. I've
 
 ### IDEs
 
