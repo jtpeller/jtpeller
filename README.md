@@ -100,6 +100,7 @@ These are some general tools I use
 
 ![7Zip](https://img.shields.io/badge/7Zip-black?style=for-the-badge&logo=7zip)
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-black?style=for-the-badge&logo=ffmpeg&logoColor=007808)
+![chocolatey](https://img.shields.io/badge/chocolatey-black?style=for-the-badge&logo=chocolatey&logoColor=80B5E3)
 
 ### Cybersecurity & Virtualization
 
