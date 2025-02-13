@@ -102,9 +102,10 @@ These are some general tools I use
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-black?style=for-the-badge&logo=ffmpeg&logoColor=007808)
 ![chocolatey](https://img.shields.io/badge/chocolatey-black?style=for-the-badge&logo=chocolatey&logoColor=80B5E3)
 
-### Cybersecurity & Virtualization
+### Cybersecurity, Networking, and Virtualization
 
 ![KeePassXC](https://img.shields.io/badge/KeePassXC-black?style=for-the-badge&logo=keepassxc)
-![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=Wireshark&logoColor=1679A7)
+![nmap](https://img.shields.io/badge/nmap-black?style=for-the-badge&logo=nmap)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-black?style=for-the-badge&logo=VirtualBox&logoColor=2F61B4)
 ![VMware](https://img.shields.io/badge/VMware-black?style=for-the-badge&logo=VMware&logoColor=607078)
+![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=Wireshark&logoColor=1679A7)
