@@ -1,10 +1,10 @@
-<h1 style="text-align: center">jtpeller</h1>
+<h1 align="center">jtpeller</h1>
 
-<p style="text-align: center"> Cybersecurity & Systems Engineer </p>
+<p align="center"> Cybersecurity & Systems Engineer </p>
 
 ## Certifications
 
-![CompTIA](https://img.shields.io/badge/Security+-black?style=for-the-badge&logo=CompTIA)
+[![CompTIA](https://img.shields.io/badge/Security+-black?style=for-the-badge&logo=CompTIA)](https://www.comptia.org/certifications/security)
 
 ## Languages
 
