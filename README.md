@@ -31,6 +31,7 @@ These are the languages that I know, to varying degrees of fluency.
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)](https://www.postgresql.org/)
 [![React JS](https://img.shields.io/badge/React_JS-black?style=for-the-badge&logo=React)](https://react.dev)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-black.svg?style=for-the-badge&logo=cshrp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ### Want to Learn
 
