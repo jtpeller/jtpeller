@@ -12,11 +12,13 @@ These are the languages that I know, to varying degrees of fluency.
 
 ### General
 
-[![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)](https://go.dev/)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)](https://go.dev/)
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge)](https://www.java.com/)
 [![Matlab](https://img.shields.io/badge/Matlab-black?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
+[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=02569B)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=%230175C2)](https://flutter.dev/)
 
 ### Web Stack
 
@@ -26,7 +28,7 @@ These are the languages that I know, to varying degrees of fluency.
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![D3 JS](https://img.shields.io/badge/d3%20js-black?style=for-the-badge&logo=d3)](https://d3js.org/)
 
-### Learning or Novice-Level
+### Novice
 
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)](https://www.postgresql.org/)
@@ -49,8 +51,8 @@ Throughout my career, I've gotten the opportunity to work with lots of different
 
 I have most experience with VS Code, but have used Visual Studio (for C/C++ development), Eclipse (back when I wrote Java), and of course Notepad++.
 
-[![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge)](https://code.visualstudio.com/)
-[![Visual Studio 2010-2022](https://img.shields.io/badge/Visual_Studio-black?style=for-the-badge)](https://visualstudio.microsoft.com/)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0ndXRmLTgnPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPjxzdmcgd2lkdGg9JzgwMHB4JyBoZWlnaHQ9JzgwMHB4JyB2aWV3Qm94PScwIDAgMzIgMzInIGZpbGw9J25vbmUnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHBhdGggZD0nTTIxLjAwMTYgMy4xMTY3OUMyMS4wMDE2IDIuMjM3ODMgMjAuMDE3NSAyLjIzNzgyIDE5LjU4MDEgMi4zNDc2OUMyMC4xOTI0IDEuODY0MjYgMjAuOTEwNSAxLjk4MTQ3IDIxLjE2NTYgMi4xMjc5NkwyNy4wNzkgNS4wMjc0N0MyNy42NDI0IDUuMzAzNzUgMjcuOTk5OCA1Ljg3ODYgMjcuOTk5OCA2LjUwODU3VjI1LjU4MzFDMjcuOTk5OCAyNi4yMjE1IDI3LjYzMjkgMjYuODAyNSAyNy4wNTggMjcuMDc0M0wyMS40OTM3IDI5LjcwNTRDMjEuMTEwOSAyOS44NzAxIDIwLjI3OTkgMzAuMjc2NyAxOS41ODAxIDI5LjcwNTNDMjAuNDU0OSAyOS44NzAyIDIwLjkyODcgMjkuMjQ3NiAyMS4wMDE2IDI4LjgyNjRWMy4xMTY3OVonIGZpbGw9J3VybCgjcGFpbnQwX2xpbmVhcl84N184MTAxKScvPjxwYXRoIGQ9J00xOS42NTEyIDIuMzMxOUMyMC4xMTU0IDIuMjQwMTcgMjEuMDAxOCAyLjI4MjcxIDIxLjAwMTggMy4xMTY4NVY5LjY4MjU0TDMuMDczNTkgMjMuMjQ1M0MyLjc2MDIyIDIzLjQ4MjQgMi4zMTkyIDIzLjQ0MyAyLjA1MjI5IDIzLjE1NDJMMC4yMDQ1MzIgMjEuMTU0OEMtMC4wODQ5MzU4IDIwLjg0MTYgLTAuMDY0NjgyNCAyMC4zNTEzIDAuMjQ5NjI0IDIwLjA2MzNMMTkuNTgwMiAyLjM0Nzc1TDE5LjY1MTIgMi4zMzE5WicgZmlsbD0ndXJsKCNwYWludDFfbGluZWFyXzg3XzgxMDEpJy8+PHBhdGggZD0nTTIxLjAwMTggMjIuMzcwOEwzLjA3MzU5IDguODA4MDFDMi43NjAyMiA4LjU3MDk0IDIuMzE5MiA4LjYxMDI4IDIuMDUyMjkgOC44OTkxTDAuMjA0NTMyIDEwLjg5ODVDLTAuMDg0OTM1OCAxMS4yMTE3IC0wLjA2NDY4MjQgMTEuNzAyIDAuMjQ5NjI0IDExLjk5MDFMMTkuNTgwMiAyOS43MDU2QzIwLjQ1NSAyOS44NzA0IDIwLjkyODkgMjkuMjQ3OCAyMS4wMDE4IDI4LjgyNjZWMjIuMzcwOFonIGZpbGw9J3VybCgjcGFpbnQyX2xpbmVhcl84N184MTAxKScvPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0ncGFpbnQwX2xpbmVhcl84N184MTAxJyB4MT0nMjMuNzknIHkxPScyJyB4Mj0nMjMuNzknIHkyPSczMCcgZ3JhZGllbnRVbml0cz0ndXNlclNwYWNlT25Vc2UnPjxzdG9wIHN0b3AtY29sb3I9JyMzMkI1RjEnLz48c3RvcCBvZmZzZXQ9JzEnIHN0b3AtY29sb3I9JyMyQjlGRUQnLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ncGFpbnQxX2xpbmVhcl84N184MTAxJyB4MT0nMjEuMDAxOCcgeTE9JzUuNTMzOTgnIHgyPScxLjAyMTcnIHkyPScyMi4zMDUxJyBncmFkaWVudFVuaXRzPSd1c2VyU3BhY2VPblVzZSc+PHN0b3Agc3RvcC1jb2xvcj0nIzBGNkZCMycvPjxzdG9wIG9mZnNldD0nMC4yNzA1NTEnIHN0b3AtY29sb3I9JyMxMjc5QjcnLz48c3RvcCBvZmZzZXQ9JzAuNDIxMzc2JyBzdG9wLWNvbG9yPScjMTE3NkI1Jy8+PHN0b3Agb2Zmc2V0PScwLjYxODE5Nycgc3RvcC1jb2xvcj0nIzBFNjlBQycvPjxzdG9wIG9mZnNldD0nMC44NTUzNDQnIHN0b3AtY29sb3I9JyMwRjcwQUYnLz48c3RvcCBvZmZzZXQ9JzEnIHN0b3AtY29sb3I9JyMwRjZEQUQnLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ncGFpbnQyX2xpbmVhcl84N184MTAxJyB4MT0nMS4xNTUyMicgeTE9JzkuOTgzODknIHgyPScyMS4wNzkxJyB5Mj0nMjYuNDgwOCcgZ3JhZGllbnRVbml0cz0ndXNlclNwYWNlT25Vc2UnPjxzdG9wIHN0b3AtY29sb3I9JyMxNzkxRDInLz48c3RvcCBvZmZzZXQ9JzEnIHN0b3AtY29sb3I9JyMxMTczQzUnLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48L3N2Zz4=&logoColor=0078d7)](https://code.visualstudio.com/)
+[![Visual Studio 2010-2022](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-black.svg?style=for-the-badge&logo=vstudio&logoColor=0078d7)](https://visualstudio.microsoft.com/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-black?style=for-the-badge&logo=notepad%2B%2B)](https://notepad-plus-plus.org/downloads/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse)](https://www.eclipse.org/downloads/)
 
