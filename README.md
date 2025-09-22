@@ -7,8 +7,8 @@
 I have my CompTIA Security+ (SY0-701) certification. I also have plenty of individual courses taken on both Udemy and Coursera. Courses on Udemy primarily focus on Cybersecurity topics, while my Coursera topics relate to development (especially Web and UI/UX).
 
 [![CompTIA](https://img.shields.io/badge/Security+-white?style=for-the-badge&logo=CompTIA&logoColor=black)](https://www.comptia.org/certifications/security)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/jtpeller)
 
 ## Languages
 
@@ -23,7 +23,7 @@ These are the programming languages that I know, to varying degrees of fluency.
 [![Java](https://img.shields.io/badge/Java-E47F20?style=for-the-badge)](https://www.java.com/)
 [![Matlab](https://img.shields.io/badge/Matlab-red?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 ### Web Stack
 
@@ -57,9 +57,9 @@ Throughout my career, I've gotten the opportunity to work with lots of different
 
 I have used these AI chatbots or plugins. I've personally found that Gemini tends to work the best (at least, for now).
 
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+[![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)](https://gemini.google.com/app)
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
+[![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
 
 ### IDEs
 
@@ -99,7 +99,7 @@ Previously, I had a dual-boot laptop with Windows 10 and Pop!, and I've used bot
 
 I have used Atlassian business tools, Microsoft SharePoint, and Slack.
 
-![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Acrobat-EC1C24.svg?style=for-the-badge&logo=google%20docs&logoColor=white)
+[![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Acrobat-EC1C24.svg?style=for-the-badge&logo=google%20docs&logoColor=white)](https://acrobat.adobe.com/)
 [![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=Atlassian&logoColor=white)](https://www.atlassian.com/)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=Bitbucket&logoColor=white)](https://www.atlassian.com/software/bitbucket)
 [![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=Confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
@@ -122,10 +122,10 @@ I have decades of experience with Microsoft Office (since Office 2003).
 
 I have experience with Google's equivalents, although not nearly as much direct experience as with Microsoft Office.
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail)
-[![Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=google%20slides&logoColor=white)](https://mail.google.com/mail)
-[![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google%20sheets&logoColor=white)](https://mail.google.com/mail)
-[![Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google%20docs&logoColor=white)](https://mail.google.com/mail)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://workspace.google.com/products/gmail/)
+[![Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=google%20slides&logoColor=white)](https://workspace.google.com/products/slides/)
+[![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google%20sheets&logoColor=white)](https://workspace.google.com/products/sheets/)
+[![Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google%20docs&logoColor=white)](https://workspace.google.com/products/docs/)
 
 ### General Use
 
