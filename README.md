@@ -55,6 +55,8 @@ Throughout my career, I've gotten the opportunity to work with lots of different
 
 ### AI and ML
 
+I have used these AI chatbots or plugins. I've personally found that Gemini tends to work the best (at least, for now).
+
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
@@ -80,7 +82,9 @@ I have worked with the following programming-related tools.
 
 ### Operating Systems
 
-These are the Operating Systems I have worked with:
+These are the Operating Systems I have worked with. I currently have a desktop with Windows 11 and a laptop running Debian with KDE + Plasma. I also have experience using WSL.
+
+Previously, I had a dual-boot laptop with Windows 10 and Pop!, and I've used both Android and iOS phones.
 
 [![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)](https://www.microsoft.com/en-us/software-download/windows10)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
@@ -116,7 +120,7 @@ I have decades of experience with Microsoft Office (since Office 2003).
 
 ### Google Drive
 
-I have experience with Google's equivalents, although not nearly as much direct experience.
+I have experience with Google's equivalents, although not nearly as much direct experience as with Microsoft Office.
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail)
 [![Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=google%20slides&logoColor=white)](https://mail.google.com/mail)
@@ -125,13 +129,15 @@ I have experience with Google's equivalents, although not nearly as much direct 
 
 ### General Use
 
-These are some general tools I use
+Here are some general utilities I routinely use.
 
 [![7Zip](https://img.shields.io/badge/7Zip-white?style=for-the-badge&logo=7zip&logoColor=black)](https://www.7-zip.org/)
 [![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
 [![chocolatey](https://img.shields.io/badge/chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=white)](https://chocolatey.org/)
 
 ### Cybersecurity, Networking, and Virtualization
+
+Besides my use of Kali for cybersecurity lab demos or college-level work, I have experience with these tools.
 
 [![KeePassXC](https://img.shields.io/badge/KeePassXC-127a1a?style=for-the-badge&logo=keepassxc&logoColor=white)](https://keepassxc.org/)
 [![nmap](https://img.shields.io/badge/nmap-0a9aff?style=for-the-badge&logo=nmap)](https://nmap.org/)
